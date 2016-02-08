@@ -47,7 +47,7 @@ limitations under the License.
 					org.apache.httpcomponents:httpcore
 				</exclude>
 				
-				<exclude>com.google.guava:guava</exclude>
+				
 				<exclude>com.google.code.findbugs:jsr305</exclude>
 			</excludes>
 			  

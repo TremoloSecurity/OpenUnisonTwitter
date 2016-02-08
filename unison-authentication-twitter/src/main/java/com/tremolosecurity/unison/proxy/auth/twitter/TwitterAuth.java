@@ -113,7 +113,7 @@ public class TwitterAuth implements AuthMechanism {
 		String noMatchOU = authParams.get("noMatchOU").getValues().get(0);
 		String uidAttr = authParams.get("uidAttr").getValues().get(0);
 		String lookupFilter = authParams.get("lookupFilter").getValues().get(0);
-		String userLookupClassName = authParams.get("userLookupClassName").getValues().get(0);
+		//String userLookupClassName = authParams.get("userLookupClassName").getValues().get(0);
 		
 		
 		
