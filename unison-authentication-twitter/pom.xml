@@ -11,7 +11,7 @@
 	<groupId>com.tremolosecurity.unison</groupId>
 	<artifactId>unison-authentication-twitter</artifactId>
 	<packaging>jar</packaging>
-	<version>1.0.7</version>
+	<version>1.0.9</version>
 	<name>unison-authentication-twitter</name>
 	<url>http://maven.apache.org</url>
 	<build>
@@ -41,7 +41,7 @@
 		<dependency>
 			<groupId>com.tremolosecurity.unison</groupId>
 			<artifactId>unison-sdk</artifactId>
-			<version>1.0.7</version>
+			<version>1.0.9</version>
 			<scope>provided</scope>
 		</dependency>
 		<dependency>
